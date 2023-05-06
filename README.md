@@ -13,11 +13,11 @@ Its usage is predominant in every industry especially in the field of medicine u
 
 #How is this going ML Model and Glaucoma Screening APP will be used
 Glaucoma screening of the patients is performed by a professional Opthalmologist who is specialized in Glaucoma. The primary objective of the Glaucoma screening application is to evaluate the patient's risk level having gluacoma, the glaucoma screening application will suggest the patient to visit a near by glaucoma specialist.
-#Intel OpenAPI Data Analytics Library [https://www.intel.com/content/www/us/en/developer/tools/oneapi/onedal-download.html]
 
- 1.numpy 
- 2.pandas 
- 3.matplotlib
+#Intel OpenAPI Data Analytics Library (OPEN API DAL) [https://www.intel.com/content/www/us/en/developer/tools/oneapi/onedal-download.html]
+ 1.numpy \n
+ 2.pandas \n
+ 3.matplotlib \n
  4.kmodes.kprototypes 
  5.json 
  6.csv 
