@@ -1,7 +1,7 @@
 # GlaucomaScreening_RiskClassifier
 
 **Heading**
-Glaucoma awareness and Forecastiing the Risk of having glaucoma
+Glaucoma awareness and Forecasting the Risk of having glaucoma
 
 #Motivation
 Glaucoma is the 3rd leading cause of blindness across the worldd. because of the lack of symptom it is difficult to know whether is person is at a potential risk of having glaucoma.
