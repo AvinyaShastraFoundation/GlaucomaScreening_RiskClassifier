@@ -13,7 +13,15 @@ Its usage is predominant in every industry especially in the field of medicine u
 
 #How is this going ML Model and Glaucoma Screening APP will be used
 Glaucoma screening of the patients is performed by a professional Opthalmologist who is specialized in Glaucoma. The primary objective of the Glaucoma screening application is to evaluate the patient's risk level having gluacoma, the glaucoma screening application will suggest the patient to visit a near by glaucoma specialist.
+#Intel OpenAPI Data Analytics Library [https://www.intel.com/content/www/us/en/developer/tools/oneapi/onedal-download.html]
 
+ 1.numpy 
+ 2.pandas 
+ 3.matplotlib
+ 4.kmodes.kprototypes 
+ 5.json 
+ 6.csv 
+ 
 Also the patients data is used to cluster and plot the exact location where there is a need for more eye camps with focus on glaucoma screening.
 
 #Benefits
@@ -23,9 +31,3 @@ Also the patients data is used to cluster and plot the exact location where ther
 (or)
 is already having a glaucoma will help tha patient avert permanent blindness.
 
- 1.numpy library is used
- 2.pandas library is used  
- 3.matplotlib library is used
- 4.kmodes.kprototypes is used
- 5.json library  is used
- 6.csv library is used
