@@ -23,3 +23,9 @@ Also the patients data is used to cluster and plot the exact location where ther
 (or)
 is already having a glaucoma will help tha patient avert permanent blindness.
 
+ 1.numpy library is used
+ 2.pandas library is used  
+ 3.matplotlib library is used
+ 4.kmodes.kprototypes is used
+ 5.json library  is used
+ 6.csv library is used
