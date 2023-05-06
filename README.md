@@ -1,5 +1,6 @@
 # GlaucomaScreening_RiskClassifier
-Heading
+
+**Heading**
 Glaucoma awareness and Forecastiing the Risk of having glaucoma
 
 #Motivation
