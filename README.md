@@ -29,5 +29,7 @@ Also the patients data is used to cluster and plot the exact location where ther
 
 2. To forecast the potential risk of having glaucoma in near future 
 (or)
-is already having a glaucoma will help tha patient avert permanent blindness.
+is already having a glaucoma will help tha patient avert permanent blindness. 
 
+Check out this video on YouTube for more information.
+https://youtu.be/SdRGdgtkRRk
